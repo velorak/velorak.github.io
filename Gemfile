@@ -12,3 +12,7 @@ platforms :windows, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:windows]
+
+gem "bcrypt", "~> 3.1"
+
+gem "nokogiri", "~> 1.19"
